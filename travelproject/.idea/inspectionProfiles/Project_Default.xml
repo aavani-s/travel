@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Project Files" level="WARNING" enabled="true">
+        <option name="ignoredIdentifiers">
+          <list>
+            <option value="CC_7.x" />
+            <option value="cc_17A.patient" />
+            <option value="django.*" />
+          </list>
+        </option>
+      </scope>
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="CC_7.x" />
+          <option value="cc_17A.patient" />
+          <option value="django.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
